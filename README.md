@@ -1,4 +1,5 @@
 使用EDSDK控制佳能相机自动取景、拍照
+
 原项目地址：https://www.codeproject.com/articles/Canon-EDSDK-Tutorial-in-Csharp
 
 此项目在原项目基础上进行一些改动：
